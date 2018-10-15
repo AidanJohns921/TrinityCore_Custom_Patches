@@ -1,5 +1,5 @@
 src/server/shared/DataStores/DBCEnums.h          |  4 +--
-diff --git a/src/server/game/DataStores/DBCEnums.h b/src/server/game/DataStores/DBCEnums.h
+diff --git a/src/server/shared/DataStores/DBCEnums.h b/src/server/shared/DataStores/DBCEnums.h
 index cb2cfbd2c7..c12f097c19 100644
 --- a/src/server/shared/DataStores/DBCEnums.h
 +++ b/src/server/shared/DataStores/DBCEnums.h
