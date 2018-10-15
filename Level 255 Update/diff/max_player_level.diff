@@ -1,8 +1,8 @@
- src/server/game/DataStores/DBCEnums.h          |  4 +--
+src/server/shared/DataStores/DBCEnums.h          |  4 +--
 diff --git a/src/server/game/DataStores/DBCEnums.h b/src/server/game/DataStores/DBCEnums.h
 index cb2cfbd2c7..c12f097c19 100644
---- a/src/server/game/DataStores/DBCEnums.h
-+++ b/src/server/game/DataStores/DBCEnums.h
+--- a/src/server/shared/DataStores/DBCEnums.h
++++ b/src/server/shared/DataStores/DBCEnums.h
 @@ -43,11 +43,11 @@ enum LevelLimit
      // Client expected level limitation, like as used in DBC item max levels for "until max player level"
      // use as default max player level, must be fit max level for used client
